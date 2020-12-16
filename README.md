@@ -1,7 +1,7 @@
 # Image Detection - Computer Vision
 
 # About This Project
-This project was implemented for final project submission for Buan 6V99 - Special Topics in Business Analytics - Deep Learning by myself, Varun Banda and Swetha ponugoti. 
+This project was implemented for final project submission for Buan 6V99 - Special Topics in Business Analytics - Deep Learning by myself, Varun Banda and Swetha ponugoti.<br/>
 This was one of two submissions for an inclass Kaggle competition and finished in 1st place.<br/>
 Kaggle Competition: https://www.kaggle.com/c/final-project-dl-spring-2020/leaderboard
 
