@@ -26,7 +26,7 @@ Learning Rate Scheduler = StepLR
 # Accuracy: 
 Train Accuracy: 81.81<br/>
 Validation Accuracy: 95.6<br/>
-Test Accuracy: 94.8
+Kaggle Test Accuracy: 94.8
 
 # About Project
 This project was implemented for final project submission for Buan 6V99 - Special Topics in Business Analytics - Deep Learning. 
