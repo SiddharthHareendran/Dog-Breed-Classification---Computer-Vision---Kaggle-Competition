@@ -1,5 +1,10 @@
 # Image Detection - Computer Vision
 
+# About This Project
+This project was implemented for final project submission for Buan 6V99 - Special Topics in Business Analytics - Deep Learning by myself, Varun Banda and Swetha ponugoti. 
+This was one of two submissions for an inclass Kaggle competition and finished in 1st place.<br/>
+Kaggle Competition: https://www.kaggle.com/c/final-project-dl-spring-2020/leaderboard
+
 # Objective:
 The object of this project is to accurately predict the type of dog breed from any given image.<br/>
 This type of classification is a common problem in computer vision and has user applications in tools like Google Lens.<br/>
@@ -27,8 +32,3 @@ Learning Rate Scheduler = StepLR
 Train Accuracy: 81.81<br/>
 Validation Accuracy: 95.6<br/>
 Kaggle Test Accuracy: 94.8
-
-# About Project
-This project was implemented for final project submission for Buan 6V99 - Special Topics in Business Analytics - Deep Learning. 
-This was one of two submissions for an inclass Kaggle competition and finished in 1st place. <br/>
-Kaggle Competition: https://www.kaggle.com/c/final-project-dl-spring-2020/leaderboard
