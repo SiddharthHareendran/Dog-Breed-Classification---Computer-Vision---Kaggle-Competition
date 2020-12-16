@@ -1,4 +1,4 @@
-# Image Detection - Computer Vision
+# Dog Breed Classification - Computer Vision
 
 # About This Project
 This project was implemented for final project submission for Buan 6V99 - Special Topics in Business Analytics - Deep Learning by myself, Varun Banda and Swetha ponugoti.<br/>
